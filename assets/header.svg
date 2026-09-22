@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="title desc">
+<title id="title">Hey, I'm Jeff. Building tools for builders.</title><desc id="desc">A developer workspace with an animated circuit connecting AI, apps, and data.</desc>
+<defs>
+ <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#202a3c" stroke-width=".6"/></pattern>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#101321"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#88f7cf"/><stop offset="1" stop-color="#a596ff"/></linearGradient>
+ <style>text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.flow{stroke-dasharray:6 16;animation:flow 8s linear infinite}.cursor{animation:blink 1.3s steps(2,end) infinite}.pulse{animation:pulse 3s ease-in-out infinite}@keyframes flow{to{stroke-dashoffset:-132}}@keyframes blink{50%{opacity:0}}@keyframes pulse{50%{opacity:.35}}@media(prefers-reduced-motion:reduce){.flow,.cursor,.pulse{animation:none}}</style>
+</defs>
+<rect x="1" y="1" width="958" height="318" rx="18" fill="url(#bg)" stroke="#30394d"/>
+<rect x="1" y="44" width="958" height="254" fill="url(#grid)"/>
+<path d="M1 44H959" stroke="#30394d"/>
+<circle cx="24" cy="23" r="5" fill="#ff7b91"/><circle cx="43" cy="23" r="5" fill="#f3c77b"/><circle cx="62" cy="23" r="5" fill="#88f7cf"/>
+<text x="85" y="28" font-size="12" fill="#9eaac0">jeff / workspace</text><text x="930" y="28" text-anchor="end" font-size="11" fill="#8793ac">README.md</text>
+<text x="38" y="87" font-size="12" letter-spacing="2" fill="#88f7cf">HELLO, WORLD / I'M</text>
+<text x="35" y="157" font-size="66" font-weight="700" fill="#f1f5ff">Jeff Cao<tspan fill="#a596ff">.</tspan></text>
+<text x="38" y="198" font-size="23" fill="#e1e7f5">Building tools for builders.</text>
+<text x="38" y="230" font-size="13" fill="#a6b2ca">From AI agents to maps to video search.</text>
+<rect class="cursor" x="38" y="250" width="9" height="16" fill="#88f7cf"/><text x="58" y="263" font-size="11" fill="#9eaac0">Computer Engineering @ Waterloo · 2028</text>
+<g fill="none" stroke="#34425b" stroke-width="2"><path d="M676 116H748V164H804"/><path d="M676 212H748V164"/><path d="M846 132V96H904"/><path d="M846 196V240H904"/></g>
+<g class="flow" fill="none" stroke="url(#accent)" stroke-width="2"><path d="M676 116H748V164H804"/><path d="M676 212H748V164"/></g>
+<rect x="598" y="93" width="96" height="46" rx="9" fill="#172b2c" stroke="#456e64"/><text x="646" y="122" text-anchor="middle" font-size="14" fill="#88f7cf">AI</text>
+<rect x="598" y="189" width="96" height="46" rx="9" fill="#25213c" stroke="#5b507d"/><text x="646" y="218" text-anchor="middle" font-size="14" fill="#bbafff">DATA</text>
+<rect x="804" y="132" width="84" height="64" rx="10" fill="#172234" stroke="#6b83b5"/><text x="846" y="170" text-anchor="middle" font-size="14" fill="#b4ceff">APPS</text>
+<circle class="pulse" cx="904" cy="96" r="4" fill="#88f7cf"/><circle class="pulse" cx="904" cy="240" r="4" fill="#b5a5ff"/>
+<path d="M18 298H942" stroke="url(#accent)" stroke-width="2"/>
+</svg>
